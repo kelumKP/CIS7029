@@ -1,0 +1,61 @@
+https://www.facebook.com/primelands/photos/a.138087822289/10160192273127290/?__cft__[0]=AZWI_Gh8XuoAlw9bdmsPqlLq6_X-tHllWXIriGieu9dx6LtbfsDUFTLVIwDsLEGShFnhQ67wbesSO_TVjT_QVHq5KK3v4uXT3yhdXzjCxT1zHLzGp7jr5Vln9WkPy1M_1VaE557DXbfRzBvE4PUhAwO9&__tn__=EH-R
+https://www.facebook.com/primelands/photos/a.451259722289/10159964144137290/?__tn__=%3C
+https://www.facebook.com/primelands/photos/a.10150898561942290/10160077364367290/
+
+https://www.facebook.com/photo/?fbid=113957724708478&set=a.113957704708480&__tn__=%3C
+
+updated_time
+
+message, from, created_time, updated_time
+
+message, from, created_time, updated_time,
+type, lnk, picture, full_picture, attachments,
+shares,
+comments.limit(0).summary(1),
+reactions.limit(0).summary(1),
+reactions.type(LIKE).limit(0).summary(1).as(like),
+reactions.type(LOVE).limit(0).summary(1).as(love),
+reactions.type(HAHA).limit(0).summary(1).as(haha),
+reactions.type(WOW).limit(0).summary(1).as(wow),
+reactions.type(SAD).limit(0).summary(1).as(sad),
+reactions.type(ANGRY).limit(0).summary(1).as(angry)
+
+message, 
+from, 
+created_time, 
+updated_time,
+shares,
+comments.limit(0).summary(1),
+reactions.limit(0).summary(1),
+reactions.type(LIKE).limit(0).summary(1).as(like),
+reactions.type(LOVE).limit(0).summary(1).as(love),
+reactions.type(HAHA).limit(0).summary(1).as(haha),
+reactions.type(WOW).limit(0).summary(1).as(wow),
+reactions.type(SAD).limit(0).summary(1).as(sad),
+reactions.type(ANGRY).limit(0).summary(1).as(angry)
+
+
+from.id
+from.name
+created_time
+updated_time
+message
+shares.count
+comments.summary.total_count
+reactions.summary.total_count
+like.summary.total_count
+love.summary.total_count
+haha.summary.total_count
+wow.summary.total_count
+sad.summary.total_count
+angry.summary.total_count
+id
+
+
+"id"	"parent_id"	"level"	"object_id"	"object_type"	"object_key"	"query_status"	"query_time"	"query_type"	"message"	"created_time"	"updated_time"	"error.message"
+"5"	"1"	"1"	"primelands"	"offcut"	""	"error (400)"	"2022-08-01 15:39:11.589183"	"Facebook:/<page-id>/posts"	""	""	""	"(#12) deprecate_post_aggregated_fields_for_attachement is deprecated for versions v3.3 and higher"
+
+
+"id"	"parent_id"	"level"	"object_id"	"object_type"	"object_key"	"query_status"	"query_time"	"query_type"	"from.id"	"from.name"	"created_time"	"updated_time"	"message"	"comments.summary.total_count"	"reactions.summary.total_count"	"like.summary.total_count"	"love.summary.total_count"	"haha.summary.total_count"	"wow.summary.total_count"	"sad.summary.total_count"	"angry.summary.total_count"	"id"
+"3"	"1"	"1"	"primelands"	"offcut"	""	"error (400)"	"2022-08-01 17:00:07.790665"	"Facebook:/<page-id>/posts"	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+
