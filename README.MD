@@ -2,6 +2,10 @@ Social Media Analytics for Business
 
 Welcome to the exciting project that aimed to revolutionize the way I interacted with social media data for few selected companies. In response to the evolving landscape of digital communication, I was assigned to create a comprehensive dashboard that visualized crucial social media information. This dashboard was intended to empower our company to gain deeper insights into user engagement, information diffusion, keywords, and sentiment analysis across various social media platforms.
 
+Technologies are used this for Python, Pandas, hvPlot .interactive, Panel and deployed to Google Cloud App Engine
+
+Hosted URL was - https://service-qpjothvhra-as.a.run.app/app
+
 Project Objective:
 
 My primary goal was to develop a dynamic and user-friendly dashboard capable of extracting, processing, and presenting social media data in a meaningful way. I had identified the following key features to be integrated into the dashboard:
