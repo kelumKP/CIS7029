@@ -1,12 +1,5 @@
 Social Media Analytics for Business
 
-Real Estate industry is another essential area need to improve along with the population growth. As for living standards getting improve, this area needs to improve parallelly. I’d like to select Prime Group as for the company. When considering property market Prime Group is one of major player. But with the present market status, it’s been a challenge for this property developer to maintain their products such as lands, houses, apartments, housing schemes and commercial buildings. There are few large and small competitors for Prime Group presently, such as, Home Lands, Blue Ocean, CBH Lands, Sky Line and HouseAndLandsLk companies.
-
-Based on following Real State Companies in Sri Lanka against Revenue and Employees table, it is showing other major players and their revenues in this business.
-
-We can see Prime Lands is on 7th position, making 28.2 million USD in the year of 2021. when this amount converts into Sri Lankan Rupees its around 980-1000 million, that amount tally in their following Management Discussion & Analysis report for 2020/2021. (Prime Lands (Pvt) Ltd, 2021)
-
-
 Welcome to the exciting project that aimed to revolutionize the way I interacted with social media data for few selected companies. In response to the evolving landscape of digital communication, I was assigned to create a comprehensive dashboard that visualized crucial social media information. This dashboard was intended to empower our company to gain deeper insights into user engagement, information diffusion, keywords, and sentiment analysis across various social media platforms.
 
 Project Objective:
